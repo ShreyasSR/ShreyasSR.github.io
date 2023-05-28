@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : Shreyas Sheeranali #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Shreyas Sheeranali"
-description              : &description "shreyas personal description"
-url                      : https://ShreyasSR.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "MDSR Intern at Adobe, Final year CS & Economics at BITS Pilani"
+url                      : https://shreyassr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ShreyasSR/ShreyasSR.github.io"
+repository               : "ShreyasSR.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shreyas Sheeranali"
   avatar           : "profile.png"
-  bio              : "Final year CS & Economics at BITS Pilani"
+  bio              : "MDSR Intern at Adobe, Passionate ML Enthusiast"
   location         : "Pilani / Bengaluru"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ShreyasSR"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
