@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hi! I am Shreyas Sheeranali"
-excerpt: "About me"
+title: "About me"
+excerpt: "Hi! I am Shreyas Sheeranali"
 author_profile: true
 redirect_from: 
   - /about/
