@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Conditional RGB-T Fusion for Effective Crowd Counting"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-10-18-rgbt-fusion
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-10-18
+venue: '2022 IEEE International Conference on Image Processing (ICIP), Bordeaux, France'
+paperurl: 'https://ieeexplore.ieee.org/document/9897548'
+citation: 'E. Pahwa, S. Kapadia, A. Luthra and S. Sheeranali, "Conditional RGB-T Fusion for Effective Crowd Counting," <i> 2022 IEEE International Conference on Image Processing (ICIP) </i>, Bordeaux, France, 2022, pp. 376-380, doi: 10.1109/ICIP46576.2022.9897548.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.academia.edu/download/96398948/09897548.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
